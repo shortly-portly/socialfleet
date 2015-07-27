@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "authors": [
+    "David Simmons <shortlyportly@googlemail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "satellizer": "0.8.7",
+    "angular-bootstrap": "~0.13.1",
+    "angular-ui-router": "~0.2.15",
+    "angular-toastr": "~1.4.1",
+    "angular-animate": "~1.4.3"
+  },
+  "resolutions": {
+    "satellizer": "0.8.7"
+  }
+}
